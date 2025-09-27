@@ -40,5 +40,8 @@ https://www.figma.com/design/3OtuaPh0QTVU9udZZkF5L2/Untitled?node-id=39-3&t=1oEr
 <img width="412" height="917" alt="Android Compact - 15" src="https://github.com/user-attachments/assets/df61e0f9-9a90-4531-8d2e-85dcd34d66b3" />
 <img width="412" height="917" alt="Android Compact - 1" src="https://github.com/user-attachments/assets/d02648da-53f9-4a26-bcf5-74631d87e196" />
 
+![Animation](https://github.com/user-attachments/assets/ca27d6e2-dbfc-4780-9b63-3417320af1d4)
+
+
 
 
