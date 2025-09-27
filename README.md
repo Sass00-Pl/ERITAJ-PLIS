@@ -11,8 +11,8 @@ SAMANTHA PIERRE
 	
 
 # DESKRIPSYON APLIKASYON AN 
-            Eritaj Plis se yon aplikasyon mobil edikatif epi divètisan,  ki la pou pwoteje, 
-             valorize, ak vann bon imaj peyi Ayiti. Anplis  li  pataje richès ak kilti ayisyen Atravè li. Anndan li  
+Eritaj Plis se yon aplikasyon mobil edikatif epi divètisan,  ki la pou pwoteje, 
+valorize, ak vann bon imaj peyi Ayiti. Anplis  li  pataje richès ak kilti ayisyen Atravè li. Anndan li  
 itilizatè yo ka dekouvri epi aprann sou divès aspè nan eritaj kiltirèl peyi a.
 
 
